@@ -20,9 +20,3 @@ Projeto de apresentação pessoal desenvolvido como atividade prática para demo
 * **Contato**: Links diretos para redes sociais e formas de comunicação.
 
 ---
-
-## 📂 Como Executar o Projeto
-
-1. **Clonar o repositório:**
-   ```bash
-   git clone [https://github.com/GabrielMartinsMandelli/Atv_sobre_mim.git](https://github.com/GabrielMartinsMandelli/Atv_sobre_mim.git)
